@@ -1,4 +1,5 @@
 /*PROGRAM TO PRINT BASIC DETAILS OF A STUDENT*/
+
 #include<stdio.h>
 #include<conio.h>
 int main()
