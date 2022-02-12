@@ -7,7 +7,7 @@ int main()
     int reg_no;
     
 
-
+/*storing information*/
 
     printf("enter your name\n");
     scanf("%s", &name);
@@ -22,6 +22,8 @@ int main()
     scanf("%s", &hobbies);
 printf("\n\n");
 
+    /*displaying information*/
+    
     printf("student details are\n");
 
     printf("name- %s\n", name);
