@@ -3,10 +3,16 @@
 int main()
 {
     int a,b,n;
+    
+    /* input two numbers from user*/
+    
     printf("enter the two numbers\n");
     scanf("%d%d", &a, &b);
     printf("enter your choice\n");
     scanf("%d", &n);
+    
+    /*perform all arithmatic operation*/
+    
     switch (n)
     {
     case 1:printf("sum=%d", a+b);
